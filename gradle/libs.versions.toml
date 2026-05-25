@@ -1,6 +1,6 @@
 [versions]
 openapiGenerator = "7.22.0"
-pluginPublish = "2.1.0"
+pluginPublish = "2.1.1"
 junit = "6.1.0"
 
 [libraries]
