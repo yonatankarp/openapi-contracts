@@ -79,6 +79,7 @@ abstract class OpenApiContractsExtension
                     "serializationLibrary" to "jackson",
                     "useCoroutines" to "true",
                     "library" to "jvm-spring-restclient",
+                    "useSpringBoot3" to "true",
                 )
         }
     }
