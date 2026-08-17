@@ -1,7 +1,7 @@
 [versions]
 openapiGenerator = "7.24.0"
 pluginPublish = "2.1.1"
-junit = "6.1.2"
+junit = "6.1.3"
 
 [libraries]
 openapi-generator-gradle-plugin = { module = "org.openapitools:openapi-generator-gradle-plugin", version.ref = "openapiGenerator" }
