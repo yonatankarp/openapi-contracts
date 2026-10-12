@@ -1,5 +1,5 @@
 [versions]
-openapiGenerator = "7.25.0"
+openapiGenerator = "7.26.0"
 pluginPublish = "2.2.1"
 junit = "6.1.3"
 
